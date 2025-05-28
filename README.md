@@ -10,11 +10,6 @@
 -->
 <!-- <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1> -->
 
-
-<!-- 个人简介-->
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
-<h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
-
 <br><br>
 <!-- Star 2023-->
 <div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
@@ -30,12 +25,6 @@
 </div> -->
 
 <div align="center">
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Angus-fw&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-	
 ---
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
