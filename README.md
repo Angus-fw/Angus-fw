@@ -6,25 +6,31 @@
 
 </div>
 
-# 👋 关于我 (About Me)
+# 👋 关于我
 
-我是一名 Python 开发者 和 音乐爱好者，专注于使用 Python 语言创造高效、灵活的应用程序。我对 AI 模型和数据分析充满兴趣，喜欢探索如何利用编程和机器学习技术让虚拟世界变得更加智能和生动。
+一名 Python 开发者与音乐爱好者，专注于构建高效简洁的应用与服务。
+对 AI 模型、数据分析充满兴趣，乐于用代码与机器学习让虚拟世界更智能、更生动。
 
-### 🌱 我正在深入学习
-- python 开发
+### 🌱 正在学习
+- Python 开发
 - Web 服务对接
 - Linux 服务器运维
 
-### 👯 我目前没有合作的想法，或许以后会......
+### 👯 合作计划
+目前暂无合作意向，未来可能会开放。
 
-### 🤔 我目前正在学习中，暂时没有工作想法，想要更多学习机会
+### 🤔 求职与实习
+现阶段以学习为主，暂无工作规划，希望获得更多学习与实践机会。
 
-### 💬 随时可以问我关于 python、Node.js 开发 的任何问题，我会尽我所能
+### 💬 交流提问
+欢迎随时交流 Python、Node.js 开发相关问题，我会尽力解答。
 
-### ⚡ 有趣的事实
-我也是一个 **音乐爱好者** 🎵
+### ⚡ 小特点
+同时也是一名音乐爱好者 🎵
 
-## 📊 我的 GitHub 数据
+---
+
+## 📊 GitHub 数据
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angus-fw/Angus-fw/output/github-contribution-grid-snake-dark.svg">
@@ -34,22 +40,24 @@
 
 <div align="center">
   <a href="https://www.micostar.cc">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Angus-fw&theme=dracula&locale=cn&border_radius=12" alt="Betsy's GitHub stats" />
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Angus-fw&theme=dracula&locale=cn&border_radius=12" alt="Angus-fw's GitHub stats" />
   </a>
 </div>
 
+---
 
 <div align="center">
 
-## 🔗 联系方式 & 技能标签
+## 🔗 技能标签
 
-![爱好音乐](https://img.shields.io/badge/爱好-音乐-red)
+![爱好-音乐](https://img.shields.io/badge/爱好-音乐-critical)
+![技能-Nginx](https://img.shields.io/badge/技能-Nginx-success)
+![技能-服务器运维](https://img.shields.io/badge/技能-服务器%20运维-blueviolet)
+![技能-CloudFlare](https://img.shields.io/badge/技能-CloudFlare-orange)
+![技能-EdgeOne](https://img.shields.io/badge/技能-EdgeOne-blue)
 
-![Nginx](https://img.shields.io/badge/技能-Nginx-green)
-![服务器运维](https://img.shields.io/badge/技能-服务器运维-purple)
-![CloudFlare](https://img.shields.io/badge/技能-CloudFlare-orange)
-![EdgeOne](https://img.shields.io/badge/技能-EdgeOne-blue)
+<br>
 
-![头像](https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg)
+<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="180" style="border-radius:50%;" alt="avatar">
 
 </div>
